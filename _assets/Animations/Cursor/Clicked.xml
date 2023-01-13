@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Clicked" Type="1" TexturePath="../_Assets/Textures/Cursor.png" TextureSizeX="157" TextureSizeY="29" CenterX="2" CenterY="2">
+  <Keyframe OffsetX="24" OffsetY="0" SizeX="25" SizeY="28" Time="1000"/>
+</Animation>

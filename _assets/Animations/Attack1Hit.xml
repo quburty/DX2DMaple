@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Attack1Hit" Type="0" TexturePath="../_Assets/Textures/Effect/Attack1Hit.png" TextureSizeX="1120" TextureSizeY="205">
+  <Keyframe OffsetX="0" OffsetY="0" SizeX="224" SizeY="205" Time="90"/>
+  <Keyframe OffsetX="224" OffsetY="0" SizeX="224" SizeY="205" Time="90"/>
+  <Keyframe OffsetX="448" OffsetY="0" SizeX="224" SizeY="205" Time="90"/>
+  <Keyframe OffsetX="672" OffsetY="0" SizeX="224" SizeY="205" Time="90"/>
+  <Keyframe OffsetX="896" OffsetY="0" SizeX="224" SizeY="205" Time="90"/>
+</Animation>

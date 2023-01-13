@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Rope" Type="1" TexturePath="../_Assets/Textures/Player/Rope.png" TextureSizeX="82" TextureSizeY="66" CenterX="21" CenterY="64">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="41" SizeY="66" Time="200"/>
+    <Keyframe OffsetX="41" OffsetY="0" SizeX="41" SizeY="66" Time="200"/>
+</Animation>

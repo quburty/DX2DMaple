@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Idle" Type="1" TexturePath="../_Assets/Textures/Mob/Slime_Idle.png" TextureSizeX="207" TextureSizeY="50" CenterX="32" CenterY="49">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="69" SizeY="50" Time="200"/>
+    <Keyframe OffsetX="69" OffsetY="0" SizeX="69" SizeY="50" Time="200"/>
+    <Keyframe OffsetX="138" OffsetY="0" SizeX="69" SizeY="50" Time="200"/>
+</Animation>

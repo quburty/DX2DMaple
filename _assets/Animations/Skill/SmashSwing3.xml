@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="SmashSwing3" Type="0" TexturePath="../_Assets/Textures/Skill/SmashSwing3.png" TextureSizeX="2720" TextureSizeY="328">
+  <Keyframe OffsetX="0" OffsetY="0" SizeX="340" SizeY="328" Time="120"/>
+  <Keyframe OffsetX="340" OffsetY="0" SizeX="340" SizeY="328" Time="90"/>
+  <Keyframe OffsetX="680" OffsetY="0" SizeX="340" SizeY="328" Time="60"/>
+  <Keyframe OffsetX="1020" OffsetY="0" SizeX="340" SizeY="328" Time="90"/>
+  <Keyframe OffsetX="1360" OffsetY="0" SizeX="340" SizeY="328" Time="180"/>
+  <Keyframe OffsetX="1700" OffsetY="0" SizeX="340" SizeY="328" Time="90"/>
+  <Keyframe OffsetX="2040" OffsetY="0" SizeX="340" SizeY="328" Time="90"/>
+  <Keyframe OffsetX="2380" OffsetY="0" SizeX="340" SizeY="328" Time="90"/>
+</Animation>

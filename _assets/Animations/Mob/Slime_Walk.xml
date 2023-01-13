@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Walk" Type="1" TexturePath="../_Assets/Textures/Mob/Slime_Walk.png" TextureSizeX="504" TextureSizeY="94" CenterX="30" CenterY="93">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+    <Keyframe OffsetX="72" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+    <Keyframe OffsetX="144" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+    <Keyframe OffsetX="216" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+    <Keyframe OffsetX="288" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+    <Keyframe OffsetX="360" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+    <Keyframe OffsetX="432" OffsetY="0" SizeX="72" SizeY="94" Time="200"/>
+</Animation>

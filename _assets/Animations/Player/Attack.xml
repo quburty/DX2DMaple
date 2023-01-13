@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Attack" Type="0" TexturePath="../_Assets/Textures/Player/Attack.png" TextureSizeX="543" TextureSizeY="148" CenterX="100" CenterY="100">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="181" SizeY="148" Time="200"/>
+    <Keyframe OffsetX="181" OffsetY="0" SizeX="181" SizeY="148" Time="200"/>
+    <Keyframe OffsetX="362" OffsetY="0" SizeX="181" SizeY="148" Time="200"/>
+</Animation>

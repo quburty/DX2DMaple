@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Dead" Type="1" TexturePath="../_Assets/Textures/Player/Dead.png" TextureSizeX="39" TextureSizeY="63" CenterX="20" CenterY="63">
+  <Keyframe OffsetX="0" OffsetY="0" SizeX="39" SizeY="63" Time="200"/>
+</Animation>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MapDatas>
+    <MapData ID="1" MapStartX="241" MapEndX="1675" MapStartY="150" MapEndY="900" MobName="Snail" BGM="../_assets/Audios/BGM/maple_island.mp3" BG="../_assets/Textures/Background/1.png">
+        <Platform PlatformStartX="241" PlatformEndX="755" PlatformPosY="655"/>
+        <Platform PlatformStartX="755" PlatformEndX="1675" PlatformPosY="592" MobSpawn="4"/>
+        <Wall WallPosX="755" WallStartY="592" WallEndY="655"/>
+        <Portal PortalPosX="1507" PortalPosY="592" TeleportMapID="2" TeleportPosX="90" TeleportPosY="277"/>
+    </MapData>
+    <MapData ID="2" MapStartX="0" MapEndX="1917" MapStartY="80" MapEndY="1000" MobName="Mushroom" BGM="../_assets/Audios/BGM/Hene.mp3" BG="../_assets/Textures/Background/2.png">
+        <Platform PlatformStartX="0" PlatformEndX="351" PlatformPosY="277"/>
+        <Platform PlatformStartX="406" PlatformLength="123" PlatformPosY="337"/>
+        <Platform PlatformStartX="586" PlatformLength="123" PlatformPosY="397"/>
+        <Platform PlatformStartX="496" PlatformLength="123" PlatformPosY="459"/>
+        <Platform PlatformStartX="316" PlatformLength="123" PlatformPosY="519"/>
+        <Platform PlatformStartX="225" PlatformLength="123" PlatformPosY="581"/>
+        <Platform PlatformStartX="135" PlatformLength="123" PlatformPosY="642"/>
+        <Platform PlatformStartX="1305" PlatformLength="123" PlatformPosY="400"/>
+        <Platform PlatformStartX="1489" PlatformLength="123" PlatformPosY="338"/>
+        <Platform PlatformStartX="1577" PlatformLength="123" PlatformPosY="399"/>
+        <Platform PlatformStartX="1760" PlatformLength="123" PlatformPosY="578"/>
+        <Platform PlatformStartX="0" PlatformEndX="90" PlatformPosY="695"/>
+        <Wall WallPosX="90" WallStartY="695" WallEndY="758"/>
+        <Platform PlatformStartX="90" PlatformEndX="176" PlatformPosY="758"/>
+        <Wall WallPosX="176" WallStartY="758" WallEndY="817"/>
+        <Platform PlatformStartX="176" PlatformEndX="266" PlatformPosY="817"/>
+        <Wall WallPosX="266" WallStartY="817" WallEndY="873"/>
+        <Platform PlatformStartX="266" PlatformEndX="1666" PlatformPosY="873" MobSpawn="6"/>
+        <Platform PlatformStartX="768" PlatformEndX="1258" PlatformPosY="456" MobSpawn="3"/>
+        <Wall WallPosX="1666" WallStartY="820" WallEndY="873"/>
+        <Platform PlatformStartX="1664" PlatformEndX="1917" PlatformPosY="820"/>
+        <Portal PortalPosX="90" PortalPosY="277" TeleportMapID="1" TeleportPosX="1507" TeleportPosY="592"/>
+        <Portal PortalPosX="1845" PortalPosY="820" TeleportMapID="3" TeleportPosX="248" TeleportPosY="1510"/>
+    </MapData>
+    <MapData ID="3" MapStartX="0" MapEndX="1700" MapStartY="0" MapEndY="1830" MobName="Slime" BGM="../_assets/Audios/BGM/elinia.mp3" BG="../_assets/Textures/Background/3.png">
+        <Platform PlatformStartX="159" PlatformLength="568" PlatformPosY="1515"/>
+        <Platform PlatformStartX="159" PlatformLength="568" PlatformPosY="1155" MobSpawn="4"/>
+        <Platform PlatformStartX="159" PlatformLength="568" PlatformPosY="795" MobSpawn="4"/>
+        <Platform PlatformStartX="159" PlatformLength="568" PlatformPosY="435" MobSpawn="4"/>
+        <Platform PlatformStartX="875" PlatformLength="568" PlatformPosY="1695" MobSpawn="4"/>
+        <Platform PlatformStartX="875" PlatformLength="568" PlatformPosY="1335" MobSpawn="4"/>
+        <Platform PlatformStartX="875" PlatformLength="568" PlatformPosY="975" MobSpawn="4"/>
+        <Platform PlatformStartX="875" PlatformLength="568" PlatformPosY="615" MobSpawn="4"/>
+        <Platform PlatformStartX="875" PlatformLength="568" PlatformPosY="255"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="375"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="495"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="735"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="855"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="1095"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="1215"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="1455"/>
+        <Platform PlatformStartX="696" PlatformLength="120" PlatformPosY="1575"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="315"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="555"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="675"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="915"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="1035"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="1275"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="1395"/>
+        <Platform PlatformStartX="786" PlatformLength="120" PlatformPosY="1635"/>
+        <Wall WallPosX="696" WallStartY="1515" WallEndY="1575"/>
+        <Wall WallPosX="786" WallStartY="1575" WallEndY="1635"/>
+        <Wall WallPosX="875" WallStartY="1635" WallEndY="1695"/>
+        <Wall WallPosX="155" WallStartY="0" WallEndY="1830"/>
+        <Wall WallPosX="1445" WallStartY="0" WallEndY="1830"/>
+        <Portal PortalPosX="248" PortalPosY="1510" TeleportMapID="2" TeleportPosX="1845" TeleportPosY="820"/>
+    </MapData>
+</MapDatas>

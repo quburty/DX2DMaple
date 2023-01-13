@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Walk" Type="1" TexturePath="../_Assets/Textures/Mob/Mushroom_Walk.png" TextureSizeX="192" TextureSizeY="67" CenterX="30" CenterY="66">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="64" SizeY="67" Time="200"/>
+    <Keyframe OffsetX="64" OffsetY="0" SizeX="64" SizeY="67" Time="200"/>
+    <Keyframe OffsetX="128" OffsetY="0" SizeX="64" SizeY="67" Time="200"/>
+</Animation>

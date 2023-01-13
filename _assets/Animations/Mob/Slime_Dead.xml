@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Dead" Type="0" TexturePath="../_Assets/Textures/Mob/Slime_Dead.png" TextureSizeX="260" TextureSizeY="60" CenterX="33" CenterY="49">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="65" SizeY="60" Time="180"/>
+    <Keyframe OffsetX="65" OffsetY="0" SizeX="65" SizeY="60" Time="180"/>
+    <Keyframe OffsetX="130" OffsetY="0" SizeX="65" SizeY="60" Time="500"/>
+</Animation>

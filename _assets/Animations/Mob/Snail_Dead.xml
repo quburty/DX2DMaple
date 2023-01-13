@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Dead" Type="0" TexturePath="../_Assets/Textures/Mob/Snail_Dead.png" TextureSizeX="352" TextureSizeY="33" CenterX="20" CenterY="32">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="44" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="88" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="132" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="176" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="220" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="264" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="308" OffsetY="0" SizeX="44" SizeY="33" Time="100"/>
+    <Keyframe OffsetX="308" OffsetY="0" SizeX="44" SizeY="33" Time="200"/>
+</Animation>

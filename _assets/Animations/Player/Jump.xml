@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Jump" Type="1" TexturePath="../_Assets/Textures/Player/Jump.png" TextureSizeX="80" TextureSizeY="85" CenterX="17" CenterY="82">
+  <Keyframe OffsetX="0" OffsetY="0" SizeX="80" SizeY="85" Time="200"/>
+</Animation>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Walk" Type="1" TexturePath="../_Assets/Textures/Mob/Snail_Walk.png" TextureSizeX="185" TextureSizeY="26" CenterX="15" CenterY="25">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="37" SizeY="26" Time="180"/>
+    <Keyframe OffsetX="37" OffsetY="0" SizeX="37" SizeY="26" Time="180"/>
+    <Keyframe OffsetX="74" OffsetY="0" SizeX="37" SizeY="26" Time="180"/>
+    <Keyframe OffsetX="111" OffsetY="0" SizeX="37" SizeY="26" Time="180"/>
+    <Keyframe OffsetX="148" OffsetY="0" SizeX="37" SizeY="26" Time="180"/>
+</Animation>

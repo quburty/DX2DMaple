@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Stand" Type="1" TexturePath="../_Assets/Textures/Player/Stand.png" TextureSizeX="207" TextureSizeY="90" CenterX="20" CenterY="84">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="69" SizeY="90" Time="200"/>
+    <Keyframe OffsetX="69" OffsetY="0" SizeX="69" SizeY="90" Time="200"/>
+    <Keyframe OffsetX="138" OffsetY="0" SizeX="69" SizeY="90" Time="200"/>
+</Animation>

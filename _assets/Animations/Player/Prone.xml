@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Prone" Type="1" TexturePath="../_Assets/Textures/Player/Prone.png" TextureSizeX="123" TextureSizeY="54" CenterX="107" CenterY="35">
+  <Keyframe OffsetX="0" OffsetY="0" SizeX="123" SizeY="54" Time="200"/>
+</Animation>

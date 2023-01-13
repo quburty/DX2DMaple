@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Dead" Type="0" TexturePath="../_Assets/Textures/Mob/Mushroom_Dead.png" TextureSizeX="195" TextureSizeY="59" CenterX="27" CenterY="55">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="65" SizeY="59" Time="180"/>
+    <Keyframe OffsetX="65" OffsetY="0" SizeX="65" SizeY="59" Time="180"/>
+    <Keyframe OffsetX="130" OffsetY="0" SizeX="65" SizeY="59" Time="270"/>
+</Animation>

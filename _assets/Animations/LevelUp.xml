@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="LevelUp" Type="0" TexturePath="../_Assets/Textures/Effect/LevelUp.png" TextureSizeX="1485" TextureSizeY="1780">
+  <Keyframe OffsetX="0" OffsetY="0" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="297" OffsetY="0" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="594" OffsetY="0" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="891" OffsetY="0" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="1188" OffsetY="0" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="0" OffsetY="356" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="297" OffsetY="356" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="594" OffsetY="356" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="891" OffsetY="356" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="1188" OffsetY="356" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="0" OffsetY="712" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="297" OffsetY="712" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="594" OffsetY="712" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="891" OffsetY="712" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="1188" OffsetY="712" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="0" OffsetY="1068" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="297" OffsetY="1068" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="594" OffsetY="1068" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="891" OffsetY="1068" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="1188" OffsetY="1068" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="0" OffsetY="1424" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="297" OffsetY="1424" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="594" OffsetY="1424" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="891" OffsetY="1424" SizeX="297" SizeY="356" Time="50"/>
+  <Keyframe OffsetX="1188" OffsetY="1424" SizeX="297" SizeY="356" Time="50"/>
+</Animation>

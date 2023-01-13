@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Drop" Type="0" TexturePath="../_Assets/Textures/item1.png" TextureSizeX="27" TextureSizeY="27">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="27" SizeY="27" Time="500"/>
+</Animation>

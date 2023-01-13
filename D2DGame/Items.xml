@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemData>
+    <Item ID="1" Name="Red Potion" IconPath="../_assets/Textures/item1.png" SellPrice="1" Sort="1" HealAmount="50"/>
+    <Item ID="2" Name="Blue Potion" IconPath="../_assets/Textures/item2.png" SellPrice="1" Sort="2" HealAmount="50"/>
+    <Item ID="3" Name="White Potion" IconPath="../_assets/Textures/item3.png" SellPrice="1" Sort="3" HealAmount="50"/>
+</ItemData>

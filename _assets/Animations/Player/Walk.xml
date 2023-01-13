@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Walk" Type="1" TexturePath="../_Assets/Textures/Player/Walk.png" TextureSizeX="320" TextureSizeY="90" CenterX="23" CenterY="84">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="80" SizeY="90" Time="200"/>
+    <Keyframe OffsetX="80" OffsetY="0" SizeX="80" SizeY="90" Time="200"/>
+    <Keyframe OffsetX="160" OffsetY="0" SizeX="80" SizeY="90" Time="200"/>
+    <Keyframe OffsetX="240" OffsetY="0" SizeX="80" SizeY="90" Time="200"/>
+</Animation>

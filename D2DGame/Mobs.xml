@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobDatas>
+    <MobData MobName="Snail" IdleAniPath="../_assets/Animations/Mob/Snail_Idle.xml" WalkAniPath="../_assets/Animations/Mob/Snail_Walk.xml" DeadAniPath="../_assets/Animations/Mob/Snail_Dead.xml" ScaleX="40" ScaleY="20" EXP="10" Atk="10" HPMax="10">
+        <DropItem ItemID="1" Percent="0.5"/>
+    </MobData>
+    <MobData MobName="Mushroom" IdleAniPath="../_assets/Animations/Mob/Mushroom_Idle.xml" WalkAniPath="../_assets/Animations/Mob/Mushroom_Walk.xml" DeadAniPath="../_assets/Animations/Mob/Mushroom_Dead.xml" ScaleX="50" ScaleY="50" EXP="30" Atk="20" HPMax="15">
+        <DropItem ItemID="3" Percent="1"/>
+    </MobData>
+    <MobData MobName="Slime" IdleAniPath="../_assets/Animations/Mob/Slime_Idle.xml" WalkAniPath="../_assets/Animations/Mob/Slime_Walk.xml" DeadAniPath="../_assets/Animations/Mob/Slime_Dead.xml" ScaleX="50" ScaleY="40" EXP="50" Atk="25" HPMax="20">
+        <DropItem ItemID="2" Percent="1"/>
+    </MobData>
+</MobDatas>

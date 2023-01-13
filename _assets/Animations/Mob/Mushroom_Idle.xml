@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Idle" Type="1" TexturePath="../_Assets/Textures/Mob/Mushroom_Idle.png" TextureSizeX="126" TextureSizeY="58" CenterX="27" CenterY="55">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="63" SizeY="58" Time="200"/>
+    <Keyframe OffsetX="63" OffsetY="0" SizeX="63" SizeY="58" Time="200"/>
+</Animation>

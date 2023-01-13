@@ -1,0 +1,17 @@
+Info : Thread::Initialize(thread.cpp, 37) : 3 thread have been created
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path
+Warning : FileSystem::GetNativePath(filesystem.cpp, 187) : Failed to native file path

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation Name="Portal" Type="1" TexturePath="../_Assets/Textures/Portal.png" TextureSizeX="416" TextureSizeY="284" CenterX="52" CenterY="135">
+    <Keyframe OffsetX="0" OffsetY="0" SizeX="104" SizeY="142" Time="120"/>
+    <Keyframe OffsetX="104" OffsetY="0" SizeX="104" SizeY="142" Time="90"/>
+    <Keyframe OffsetX="208" OffsetY="0" SizeX="104" SizeY="142" Time="90"/>
+    <Keyframe OffsetX="312" OffsetY="0" SizeX="104" SizeY="142" Time="120"/>
+    <Keyframe OffsetX="0" OffsetY="142" SizeX="104" SizeY="142" Time="90"/>
+    <Keyframe OffsetX="104" OffsetY="142" SizeX="104" SizeY="142" Time="90"/>
+    <Keyframe OffsetX="208" OffsetY="142" SizeX="104" SizeY="142" Time="120"/>
+    <Keyframe OffsetX="312" OffsetY="142" SizeX="104" SizeY="142" Time="90"/>
+</Animation>
